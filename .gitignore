@@ -1,0 +1,7 @@
+.idea
+venv
+#secret
+
+__pycache__
+# Elastic Beanstalk Files
+
